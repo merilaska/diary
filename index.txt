@@ -1,0 +1,82 @@
+﻿bds<html>
+  <head>
+    <title>Over the US by scooter</title>
+    <style type="text/css">
+        body {
+              background-color: #d2b48c;
+              margin-left: 20%;
+              margin-right: 20%;
+              border: 2px dotted black;
+              padding: 10px 10px 10px 10px;
+              font-family: sans-serif;
+        }
+     </style>
+  </head>
+  <body>
+<p><img src="../logo/mypod.psd" alt="Логотип myPod"">
+</p>
+    <h1>Over the US by Scooter</h1>
+    <a href="html/seattle_video_med.html">
+<img src="thumbnails/seattle_video_med.jpg" alt="Мой iPod Video в Сиэтле, Вашингтон">
+</a>
+
+<a href="../images/scooter.jpg">
+<img src= "shortcut/shortscooter.jpg">
+</a>
+    <p>
+       Дневник <pre>моих</pre> <em>поездок</em> на <strong>cкутере</strong>.
+       <em><q>Rede the road</q></em>.  
+    </p>
+    <h2>21 декабря</h2>
+    <p>
+     Ехаллю вылатмолмолывамдыв очвавыаывимовыам
+варвымровамриывамировамориави
+<blockquote>
+dfvjsdfnvksdfiovjosdfbkjsdfbnsjfdvlsmdlkv  kjdsnvjksdnv  hdjsfvjksd;  habdvjhbsdjk
+dhjfvbjk;svnbkjjvjl   hebrvjknd ljh bkjelvn bjhk
+dfnvjkdfnvl n 
+dfv hd bhj
+</blockquote>
+    </p>
+<h2>10 декабря</h2>
+    
+    <img src="images/can.jpg">
+     
+    <p>
+     Ехаллю вылатмолмолывамдыв очвавыаывимовыам
+варвымровамриывамировамориави
+<ol>
+<li>кака</li>
+<li>аква</li>
+<li>сточ</li>
+<li>вавом</li>
+<li>лолок</li>
+</ol>
+
+<dl>
+<dt>Знаки Burma Shave</dt>
+<dd>Дорожные знаки, распространенные в США
+в 1920–1930-е годы и рекламирующие товары
+для бритья.</dd>
+<dt>Шоссе 66</dt>
+<dd>Самое известное шоссе в сети автомагистралей
+Соединенных Штатов.</dd>
+</dl>
+
+    </p>
+
+<h2>28 ноября</h2>
+    
+    <img src="images/ocean.jpg">
+    
+    <p>
+     Ехаллю вылатмолмолывамдыв очвавыаывимовыам
+варвымровамриывамировамориави
+    </p>
+
+<p>
+&#208;&epsilon;&tau;&#114;&ouml;&igrave;&tau;.
+</p>
+
+  </body>
+</html>
