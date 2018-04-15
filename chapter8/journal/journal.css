@@ -5,3 +5,6 @@ url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf"
 body {
 font-family: Verdana, Geneva, Arial, sans-serif;
 }
+h1 {
+font-family: "Emblema One", sans-serif;
+}
